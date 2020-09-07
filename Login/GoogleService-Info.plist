@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>947587213410-auu7q4bhrv8cjp4cujktjenbl3imvmag.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.947587213410-auu7q4bhrv8cjp4cujktjenbl3imvmag</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDBJzl4mAgJwg3n8Bj01tFEi9TyElxLofc</string>
+	<key>GCM_SENDER_ID</key>
+	<string>947587213410</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.TuanPham.Login</string>
+	<key>PROJECT_ID</key>
+	<string>logingg-9e875</string>
+	<key>STORAGE_BUCKET</key>
+	<string>logingg-9e875.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:947587213410:ios:9e7a94cea88821faa1493b</string>
+	<key>DATABASE_URL</key>
+	<string>https://logingg-9e875.firebaseio.com</string>
+</dict>
+</plist>
